@@ -1,4 +1,4 @@
-# tin-dog-start-up
+# tindog-startup
 
 A dummy responsive start-up website using bootstrap 
 
